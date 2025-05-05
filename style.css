@@ -74,6 +74,12 @@ main {
   box-shadow: 0 0 10px #ff3333;
 }
 
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+
 footer {
   background: #eeeeee;
   text-align: center;
