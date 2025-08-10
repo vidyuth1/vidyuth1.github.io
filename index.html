@@ -7,23 +7,62 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+
   <header>
-    <h1>Vidyuth Suresh</h1>
-    <p>Third Year Mechatronics Engineering Student | Seeking Co-Op</p>
+    <h1>Vidyuth S</h1>
+    <p>Third-Year Mechatronics Engineering Student</p>
   </header>
+
   <nav>
-    <a href="index.html">Home</a>
-    <a href="about.html">About</a>
-    <a href="projects.html">Projects</a>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
+    <a href="#contact">Contact</a>
   </nav>
-  <main>
-    <div class="container">
-      <h2>Welcome to My Portfolio</h2>
-      <p>Please use the navigation bar to explore different sections.</p>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I'm a passionate Mechatronics Engineering student with a love for robotics, embedded systems, and automation. I enjoy building things that move, think, and interact with the world.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Autonomous Line-Following Robot</h3>
+      <p>Designed and programmed a robot using Arduino and IR sensors to follow complex paths with PID control.</p>
     </div>
-  </main>
+    <div class="project">
+      <h3>Gesture-Controlled Arm</h3>
+      <p>Built a robotic arm controlled via hand gestures using an IMU sensor and wireless communication.</p>
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="skill">Arduino</div>
+      <div class="skill">SolidWorks</div>
+      <div class="skill">Python</div>
+      <div class="skill">MATLAB</div>
+      <div class="skill">Embedded C</div>
+      <div class="skill">ROS</div>
+      <div class="skill">Fusion 360</div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form class="contact-form">
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Your Email" required />
+      <textarea rows="5" placeholder="Your Message" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
   <footer>
-    <p>&copy; 2025 Vidyuth Suresh</p>
+    <p>&copy; 2025 Vidyuth R. | Mechatronics Portfolio</p>
   </footer>
+
 </body>
 </html>
