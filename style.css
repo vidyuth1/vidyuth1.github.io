@@ -63,6 +63,13 @@ section {
   transform: scale(1.02);
 }
 
+.hero {
+  background-image: url("assets/hero-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
+
 .skills {
   display: flex;
   flex-wrap: wrap;
