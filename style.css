@@ -51,6 +51,10 @@ section {
   margin: auto;
 }
 
+.test{
+  width: 300px;
+}
+
 .project {
   background: #1e1e1e;
   padding: 20px;
