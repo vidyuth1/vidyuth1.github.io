@@ -45,13 +45,6 @@ nav a:hover {
   color: #00ffff;
 }
 
-.hero {
-  background-image: url("assets/hero-bg.jpg");
-  background-size: cover;
-  background-position: center;
-  height: 400px;
-}
-
 section {
   padding: 60px 20px;
   max-width: 1000px;
