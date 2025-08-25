@@ -89,12 +89,8 @@ section {
 .school
 {
   float: right;
-  width: 15%;
+  width: 20%;
   margin-right: 45px;
-  /* attempt to optimize mobile experience WILL REVISIT*/
-  margin-bottom: 25px;
-  /* image asthetics */
-  border-radius: 25px;
 }
 
 .skills {
