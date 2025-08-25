@@ -19,7 +19,7 @@ header h1 {
 }
 
 header p {
-  font-size: 1.8em;
+  font-size: 1.2em;
   color: #ccc;
 }
 
@@ -71,6 +71,18 @@ section {
 }
 
 .project:hover {
+  transform: scale(1.02);
+}
+
+.education {
+  background: #1e1e1e;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.education:hover {
   transform: scale(1.02);
 }
 
