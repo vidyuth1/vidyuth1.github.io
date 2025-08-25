@@ -74,15 +74,6 @@ section {
   transform: scale(1.02);
 }
 
-.a {
-  display: inline-block;
-  margin-bottom: 20px;
-  border-radius: 10px;
-  margin-right: 20px;
-  width: 20%;
-}
-
-
 .education {
   background: #1e1e1e;
   padding: 20px;
@@ -94,6 +85,14 @@ section {
 
 .education:hover {
   transform: scale(1.02);
+}
+
+.a {
+  display: inline-block;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  margin-left: 20px;
+  width: 30%;
 }
 
 .a, .education {
