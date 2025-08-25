@@ -74,7 +74,7 @@ section {
   transform: scale(1.02);
 }
 
-.education {
+.school {
   background: #1e1e1e;
   padding: 20px;
   margin-bottom: 20px;
@@ -82,7 +82,7 @@ section {
   transition: transform 0.3s ease;
 }
 
-.education:hover {
+.school:hover {
   transform: scale(1.02);
 }
 
