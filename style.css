@@ -96,6 +96,10 @@ section {
   transform: scale(1.02);
 }
 
+.a, .education {
+  display: inline-block;
+}
+
 .skills {
   display: flex;
   flex-wrap: wrap;
