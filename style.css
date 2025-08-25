@@ -86,10 +86,10 @@ section {
   transform: scale(1.02);
 }
 
-.education1
+.school
 {
-  float: left;
-  width: 45%;
+  float: right;
+  width: 15%;
   margin-right: 45px;
   /* attempt to optimize mobile experience WILL REVISIT*/
   margin-bottom: 25px;
