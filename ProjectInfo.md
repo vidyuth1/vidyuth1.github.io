@@ -9,3 +9,8 @@ This project **OFFICIALLY** started on **24/08/2025**
 - This note was created to keep myself accountable and will be a branch of the repository to continue to represent the project is **AI-Free**
 
 **/08/2025**
+- Added a functional image in the about me section
+
+- Formatted image and text by shifting the image, giving the dimensions and providing margins for adequate spacing.
+
+- 
