@@ -74,6 +74,13 @@ section {
   transform: scale(1.02);
 }
 
+.a {
+  margin-bottom: 20px;
+  border-radius: 10px;
+  width: 30%;
+}
+
+
 .education {
   background: #1e1e1e;
   padding: 20px;
