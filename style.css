@@ -58,6 +58,8 @@ section {
   margin-right: 25px;
   /* attempt to optimize mobile experience WILL REVISIT*/
   margin-bottom: 25px;
+  /* image asthetics */
+  border-radius: 5px;
 }
 
 .project {
